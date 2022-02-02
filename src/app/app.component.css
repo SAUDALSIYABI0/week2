@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+.oddrow {
+  background-color: green;
+  padding: 1.2em;
+}
+.evenrow {
+  background-color: gray;
+  padding: 1.2em;
+}
